@@ -12,7 +12,7 @@ Rate 10/10 (anonymous comment)
 Control panel:
 
 
-
+ 
 ![CPanel](https://github.com/PDymala/Stroboscope/blob/master/Strobe_UI.JPG?raw=true "Control_Panel")
 
 
